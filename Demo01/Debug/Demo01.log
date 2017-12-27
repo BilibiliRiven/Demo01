@@ -1,0 +1,55 @@
+﻿生成启动时间为 2017/12/27 15:07:58。
+     1>项目“G:\MFCFrame\Demo01\Demo01\Demo01.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Demo01.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Demo01.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Demo01.cpp MYAFX_MODULE_THREAD_STATE.cpp MyCmdTarget.cpp MyCreateContext.cpp MyDocManager.cpp MyDocTemplate.cpp MyDocument.cpp MyFrameWnd.cpp MyMfc.cpp MYNoTrackObject.cpp MyObject.cpp MySingleDocTemplate.cpp MyView.cpp MyWinApp.cpp MyWinThread.cpp MyWnd.cpp TestDemoApp.cpp TestDemoDoc.cpp TestDemoFrame.cpp TestDemoView.cpp
+         TestDemoView.cpp
+         TestDemoFrame.cpp
+         TestDemoDoc.cpp
+         TestDemoApp.cpp
+         MyWnd.cpp
+         MyWinThread.cpp
+         MyWinApp.cpp
+         MyView.cpp
+         MySingleDocTemplate.cpp
+         MyObject.cpp
+         MYNoTrackObject.cpp
+         MyMfc.cpp
+         MyFrameWnd.cpp
+         MyDocument.cpp
+         MyDocTemplate.cpp
+         MyDocManager.cpp
+         MyCreateContext.cpp
+         MyCmdTarget.cpp
+         MYAFX_MODULE_THREAD_STATE.cpp
+         Demo01.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\MFCFrame\Demo01\Debug\Demo01.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\MFCFrame\Demo01\Debug\Demo01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\MFCFrame\Demo01\Debug\Demo01.lib" /MACHINE:X86 Debug\Demo01.obj
+         Debug\MYAFX_MODULE_THREAD_STATE.obj
+         Debug\MyCmdTarget.obj
+         Debug\MyCreateContext.obj
+         Debug\MyDocManager.obj
+         Debug\MyDocTemplate.obj
+         Debug\MyDocument.obj
+         Debug\MyFrameWnd.obj
+         Debug\MyMfc.obj
+         Debug\MYNoTrackObject.obj
+         Debug\MyObject.obj
+         Debug\MySingleDocTemplate.obj
+         Debug\MyView.obj
+         Debug\MyWinApp.obj
+         Debug\MyWinThread.obj
+         Debug\MyWnd.obj
+         Debug\stdafx.obj
+         Debug\TestDemoApp.obj
+         Debug\TestDemoDoc.obj
+         Debug\TestDemoFrame.obj
+         Debug\TestDemoView.obj
+         Demo01.vcxproj -> G:\MFCFrame\Demo01\Debug\Demo01.exe
+     1>已完成生成项目“G:\MFCFrame\Demo01\Demo01\Demo01.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.27
